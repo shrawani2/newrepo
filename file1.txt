@@ -1,0 +1,5 @@
+notes for devops 
+aws 
+hit 
+linux maven 
+jenkins 
